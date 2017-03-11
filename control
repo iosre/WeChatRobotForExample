@@ -1,0 +1,10 @@
+Package: com.naken.wechatrobotforexample
+Name: WeChatRobotForExample
+Depends: mobilesubstrate
+Version: 4.1.2
+Architecture: iphoneos-arm
+Description: A Powerful WeChat Robot for Example
+Maintainer: snakeninny
+Author: snakeninny
+Section: Tweaks
+Homepage: http://iosre.com

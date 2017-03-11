@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dailyBroadcastLimit</key>
+	<integer>1</integer>
+	<key>offDutyTime</key>
+	<integer>21</integer>
+	<key>onDutyTime</key>
+	<integer>7</integer>
+	<key>exampleConversation</key>
+	<string>smb://6.9.6.9/share/exampleConversation.txt</string>
+	<key>broadcastPassport</key>
+	<string>iosre.com</string>
+	<key>broadcastInterval</key>
+	<real>1800</real>
+	<key>dailyPromotionIndex</key>
+	<integer>0</integer>
+	<key>lastBroadcastDate</key>
+	<date>2016-04-19T12:34:45Z</date>
+</dict>
+</plist>

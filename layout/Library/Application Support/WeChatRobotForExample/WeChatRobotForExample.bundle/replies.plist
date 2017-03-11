@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>goodNight</key>
+	<string>iOSRE</string>
+	<key>pleaseSendLater</key>
+	<string>iOSRE</string>
+	<key>promoteOfficialAccount</key>
+	<string>iOSRE</string>
+	<key>noBuildingFound</key>
+	<string>iOSRE</string>
+	<key>groupExchange</key>
+	<string>iOSRE</string>
+	<key>tooLate</key>
+	<string>iOSRE</string>
+	<key>reachedDailyBroadcastLimit</key>
+	<string>iOSRE</string>
+	<key>wrongCommand</key>
+	<string>iOSRE</string>
+	<key>exampleManual</key>
+	<string>iOSRE</string>
+	<key>greetingsWhenFriendsAdded</key>
+	<string>iOSRE</string>
+	<key>unrecognizedMessage</key>
+	<string>iOSRE</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+#!/bin/sh
+chmod a+x /Library/Application\ Support/WeChatRobotForExample/WeChatRobotForExample.bundle/decoder
+ldid -S /Library/Application\ Support/WeChatRobotForExample/WeChatRobotForExample.bundle/decoder
+ldid -S /usr/bin/ffmpeg
+cat /dev/null > /var/log/syslog
+exit 0;

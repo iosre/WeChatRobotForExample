@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>thumbURL</key>
+	<string>http://bbs.iosre.com/uploads/default/603/3bbf17794a09def0.png</string>
+	<key>jsAppID</key>
+	<string>wxa26ad717e08333a0</string>
+	<key>shareOpenURL</key>
+	<string>http://iosre.com</string>
+	<key>shareOriginURL</key>
+	<string>http://iosre.com</string>
+	<key>appMediaURL</key>
+	<string>http://iosre.com</string>
+	<key>thumbNail</key>
+	<string>/Library/Application Support/WeChatRobotForExample/WeChatRobotForExample.bundle/dtThumbnail</string>
+	<key>title</key>
+	<string>iOSRE</string>
+	<key>description</key>
+	<string>iOS Reverse Engineering</string>
+</dict>
+</plist>
